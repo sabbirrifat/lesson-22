@@ -1,0 +1,12 @@
+.collection-page{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.collection-page-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
